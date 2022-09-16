@@ -1,0 +1,16 @@
+form {
+    display: none;
+    position: absolute;
+    background-color: green;
+    color: white;
+}
+
+.bookBlock {
+    width: 200px;
+    height: auto;
+    background-color: lightblue;
+    border: 1px solid black;
+    text-align: left;
+    white-space: pre-wrap;
+    padding: 10px;
+}
