@@ -1,0 +1,22 @@
+{
+  "name": "library-project",
+  "version": "1.0.0",
+  "description": "TOP Library Project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreenGimli/library-project.git"
+  },
+  "author": "Charlie Wallace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GreenGimli/library-project/issues"
+  },
+  "homepage": "https://github.com/GreenGimli/library-project#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  }
+}
